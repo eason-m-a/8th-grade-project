@@ -2,20 +2,22 @@
 A game about collecting falling coins, made using Python & the Arcade library.
 
 
-## Installing
-Download the Python 3 installer from the official [website](https://www.python.org/downloads/) and install it, if not installed previously.
+# Installing Python & Arcade
+Visit the official [Python website](https://www.python.org/downloads/) and install a recent version of Python.
 
-Run the following in the terminal to install the Arcade library
+Open the command terminal & run the following command in order to install the Arcade library.
 ```
 pip3 install arcade
 ```
 
-
-## Running the application
+# Running the Game
 After downloading the code from the repo, run the game.py file, or run this command.
 ```
 cd coin-collecting-game && python3 src/game.py
 ```
+
+# Screenshot
+![1](https://postimg.cc/w1G8mmSH/c5679b6d)
 
 ## Prerequisites
 * [Python](https://www.python.org)
