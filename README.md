@@ -17,7 +17,7 @@ cd coin-collecting-game && python3 src/game.py
 ```
 
 # Screenshot
-![1](https://postimg.cc/w1G8mmSH/c5679b6d](https://i.postimg.cc/Wpr1F4d1/image.png)
+![1](https://i.postimg.cc/Wpr1F4d1/image.png)
 
 ## Prerequisites
 * [Python](https://www.python.org)
