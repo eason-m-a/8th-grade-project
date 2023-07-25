@@ -11,9 +11,9 @@ pip3 install arcade
 ```
 
 # Running the Game
-After downloading the code from the repo, run the game.py file, or run this command.
+After downloading the code from the repo, either run the game.py file, or navigate to the 8th-grade-project directory & run the following command
 ```
-cd coin-collecting-game && python3 src/game.py
+py src/game.py
 ```
 
 # Screenshot
